@@ -1,6 +1,6 @@
 public class MinimumScoreTriangulationOfPolygon {
 
-
+    // https://en.wikipedia.org/wiki/Polygon_triangulation
     // Concept : Similar to Burst balloons. 
     // This question is done with the help of ear clipping method.
     // We have to hold one edge of the triangel and do the triangulation.
